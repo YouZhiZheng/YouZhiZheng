@@ -5,9 +5,10 @@
 - 🌱 I’m currently learning c++, python and eda...
 - 🔭 I prefer c, c++ and python
 - 📫 How to reach me: youzhizheng9@gmail.com
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouZhiZheng)
 
