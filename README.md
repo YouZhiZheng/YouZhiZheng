@@ -15,7 +15,6 @@
 - [394. 字符串解码](https://YouZhiZheng.github.io/posts/84d7cc5/)
 <!-- BLOG-POST-LIST:END -->
 
-<!---
 <div>
     <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
         <img src="https://github.com/YouZhiZheng/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
@@ -26,7 +25,6 @@
         <img src="https://github.com/YouZhiZheng/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
     </a>
 </div>
---->
 
 <!---
 YouZhiZheng/YouZhiZheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
