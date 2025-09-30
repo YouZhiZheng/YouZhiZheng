@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=435&lines=%F0%9F%91%8BHi%2C+I'm+YouZhiZheng)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=435&lines=%F0%9F%91%8BHi%2C+I'm+YouzhiZheng)](https://git.io/typing-svg)
 
 - 🏫 I'm currently studying in Southwest University of Science and Technology
 - 👀 I’m interested in EDA
