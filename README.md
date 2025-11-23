@@ -8,11 +8,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Zotero + Obsidian 文献阅读与笔记工作流](https://YouZhiZheng.github.io/posts/ef03586/)
 - [Velox_控制模块](https://YouZhiZheng.github.io/posts/325196d/)
 - [Velox_日志模块](https://YouZhiZheng.github.io/posts/1235a2f/)
 - [Velox_线程池模块](https://YouZhiZheng.github.io/posts/e87181a/)
 - [Cmake学习笔记](https://YouZhiZheng.github.io/posts/6c7e777/)
-- [394. 字符串解码](https://YouZhiZheng.github.io/posts/84d7cc5/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
