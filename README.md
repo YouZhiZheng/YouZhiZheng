@@ -8,11 +8,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Tmux 使用教程](https://YouZhiZheng.github.io/posts/73a7b9a/)
 - [芯片设计文件格式：LEF 与 DEF](https://YouZhiZheng.github.io/posts/f5d8167/)
 - [Codex Best Practices](https://YouZhiZheng.github.io/posts/479270e/)
 - [芯片设计核心概念：建立时间与保持时间](https://YouZhiZheng.github.io/posts/e7fe76a/)
 - [Zotero + Obsidian 文献阅读与笔记工作流](https://YouZhiZheng.github.io/posts/ef03586/)
-- [Velox_控制模块](https://YouZhiZheng.github.io/posts/325196d/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
